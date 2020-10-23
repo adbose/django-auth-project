@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on localhost:8000
+From: webmaster@localhost
+To: adi26mar@gmail.com
+Date: Thu, 22 Oct 2020 18:19:59 -0000
+Message-ID: <160339079910.18276.2112724960143828260@lonevo>
+
+
+You're receiving this email because you requested a password reset for your user account at localhost:8000.
+
+Please go to the following page and choose a new password:
+
+http://localhost:8000/accounts/reset/MQ/ac5pla-d9c3607ed3d8a0b21c10ada86864058f/
+
+Your username, in case you’ve forgotten: adib
+
+Thanks for using our site!
+
+The localhost:8000 team
+
+
+
+-------------------------------------------------------------------------------
